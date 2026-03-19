@@ -26,7 +26,6 @@ The dataset used was sourced from [Kaggle.com](https://www.kaggle.com/), contain
 This project applies and compares the following machine learning models:  
 - **Logistic Regression**  
 - **Support Vector Machine (SVM)**  
-- **Decision Tree**  
 
 ### Future Work  
 Potential improvements include:  
